@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\bin\Debug\net6.0-windows\fibonacci.exe
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\bin\Debug\net6.0-windows\fibonacci.deps.json
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\bin\Debug\net6.0-windows\fibonacci.runtimeconfig.json
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\bin\Debug\net6.0-windows\fibonacci.dll
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\bin\Debug\net6.0-windows\ref\fibonacci.dll
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\bin\Debug\net6.0-windows\fibonacci.pdb
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\obj\Debug\net6.0-windows\fibonacci.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\obj\Debug\net6.0-windows\fibonacci.Form1.resources
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\obj\Debug\net6.0-windows\fibonacci.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\obj\Debug\net6.0-windows\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\obj\Debug\net6.0-windows\fibonacci.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\obj\Debug\net6.0-windows\fibonacci.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\obj\Debug\net6.0-windows\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\obj\Debug\net6.0-windows\fibonacci.dll
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\obj\Debug\net6.0-windows\ref\fibonacci.dll
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\obj\Debug\net6.0-windows\fibonacci.pdb
+C:\Users\Administrator\Desktop\ozan_195050008\fibonacci\fibonacci\obj\Debug\net6.0-windows\fibonacci.genruntimeconfig.cache
